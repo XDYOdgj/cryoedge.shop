@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cryoedge.shop/sitemap.xml
